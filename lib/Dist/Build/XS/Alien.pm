@@ -3,7 +3,7 @@ package Dist::Build::XS::Alien;
 use strict;
 use warnings;
 
-our $VERSION = '0.000';
+our $VERSION = '0.001';
 
 use parent 'ExtUtils::Builder::Planner::Extension';
 
